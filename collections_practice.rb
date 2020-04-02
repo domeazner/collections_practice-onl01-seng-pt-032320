@@ -8,6 +8,8 @@ describe 'collections practice' do
       expect(sort_array_asc([25, 7, 1])).to eq([1,7,25])
     end
   end
+  
+end
 
 =begin
   # Question 2
